@@ -36,5 +36,5 @@ Before using this script, ensure you have the following installed and configured
    
    
 6. **Clone this repository:**:
-   git clone https://github.com/yourusername/chaincode-operations.git
-cd chaincode-operations
+   git clone https://github.com/drusmantahir/cf_hyperledger_fabric.git
+cd cf_hyperledger_fabric
